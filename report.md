@@ -12,7 +12,7 @@
 
 Баг-репорт и тест-кейс
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/intro:
 
 Валидный номер карты:
 
@@ -20,7 +20,10 @@
 
 Невалидный номер карты:
 
-4929280083560645
+Visa: 4929490899216195543
+Discover: 6011042769434167285
+American Express(AMEX): 348478505040922
+Maestro: 5038371080830192
 
 Тестирование производилось в следующем окружении:
 
